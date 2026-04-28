@@ -2,7 +2,7 @@
 title: "Operations Log"
 type: log
 created: 2026-04-15
-updated: 2026-04-15
+updated: 2026-04-27
 ---
 
 ## [2026-04-15] FETCH catch-up Jan–Apr 2026 (Part 1)
@@ -19,3 +19,6 @@ Re-searched all 13 previously ⚪ journals using journal website fetches and tar
 
 ## [2026-04-17] FETCH catch-up — ROUND 3 (combined web + PubMed abstract screening)
 Completed re-search of all previously ⚪ journals using improved methodology: (1) web search "journal name + gut microbiome + 2026", (2) PubMed journal-filtered queries with date filter, (3) abstract-level relevance screening regardless of title keywords, (4) WebFetch of PubMed abstract pages. Found 11 new confirmed papers (#28–38): Gut BMJ ×4 (S. anginosus + gastric cancer; Roseburia inulinivorans + muscle strength; Bifidobacterium animalis + stress-CRC metastasis; gut microbiota + atherosclerosis review), Gastroenterology ×2 (F. prausnitzii + monocyte metabolic reprogramming; mucosa-associated microbiota dynamics in Crohn's recurrence), Lancet GI ×1 (SIBO mechanisms review), Microbiome Springer ×1 (olive oil type + gut microbiome + cognition in older adults), eLife ×1 (TMA-TAAR5-circadian rhythm axis), mBio ×1 (dietary fiber + microbiome resilience to oxygen stress), mSystems ×1 (GERD probiotic RCT + metagenome-metabolome). Remaining journals with no papers confirmed: Cell, Nature Reviews Microbiology, NAR, Genome Biology, Cell Reports. Catch-up fetch now COMPLETE: 40 papers across 20 journals. Updated fetch-2026-01-to-04.md.
+
+## [2026-04-27] TEST write access to remote
+Verified Claude Code session can commit and push to https://github.com/XieyueXiao/ResearchUpdate.git using credentials saved in macOS Keychain. This confirms the local push pipeline works; full autonomous remote write (via Claude GitHub App + scheduled GitHub Action) is the next setup step.
