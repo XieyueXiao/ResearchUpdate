@@ -2,7 +2,7 @@
 title: "Operations Log"
 type: log
 created: 2026-04-15
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 ## [2026-04-15] FETCH catch-up Jan–Apr 2026 (Part 1)
@@ -22,3 +22,6 @@ Completed re-search of all previously ⚪ journals using improved methodology: (
 
 ## [2026-04-27] TEST write access to remote
 Verified Claude Code session can commit and push to https://github.com/XieyueXiao/ResearchUpdate.git using credentials saved in macOS Keychain. This confirms the local push pipeline works; full autonomous remote write (via Claude GitHub App + scheduled GitHub Action) is the next setup step.
+
+## [2026-04-28] FETCH daily scan → created wiki/changelog/fetch-2026-04-28.md
+Searched all 23 target journals via web search and targeted queries for gut microbiome papers published 2026-04-27–28. Indexing lag prevented confirmation of papers from exactly Apr 27–28; fetch covers confirmed publications from Apr 21–25, 2026. Found 8 papers across 5 journals: Nature Medicine ×1 (Parkinson's disease microbiome signature, pre-symptomatic GBA1 carriers), Nature Communications ×2 (personalised probiotic Receptive Scores; coffee–gut–brain axis), PNAS ×1 (industrialisation increases gut estrogen-recycling capacity), Nature Microbiology ×1 (multi-omic integration methods review), Gut Microbes ×2 (microbiota → energy metabolism → depression; Enterobactin impairs mitochondrial respiration, alleviates colitis), Cell Host & Microbe ×1 (Adaptive Coherence framework for microbiome health). Written to wiki/changelog/fetch-2026-04-28.md.
