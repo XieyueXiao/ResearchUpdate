@@ -2,7 +2,7 @@
 title: "Operations Log"
 type: log
 created: 2026-04-15
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 ## [2026-04-15] FETCH catch-up Jan–Apr 2026 (Part 1)
@@ -25,3 +25,6 @@ Verified Claude Code session can commit and push to https://github.com/XieyueXia
 
 ## [2026-04-28] FETCH daily scan → created wiki/changelog/fetch-2026-04-28.md
 Searched all 23 target journals via web search and targeted queries for gut microbiome papers published 2026-04-27–28. Indexing lag prevented confirmation of papers from exactly Apr 27–28; fetch covers confirmed publications from Apr 21–25, 2026. Found 8 papers across 5 journals: Nature Medicine ×1 (Parkinson's disease microbiome signature, pre-symptomatic GBA1 carriers), Nature Communications ×2 (personalised probiotic Receptive Scores; coffee–gut–brain axis), PNAS ×1 (industrialisation increases gut estrogen-recycling capacity), Nature Microbiology ×1 (multi-omic integration methods review), Gut Microbes ×2 (microbiota → energy metabolism → depression; Enterobactin impairs mitochondrial respiration, alleviates colitis), Cell Host & Microbe ×1 (Adaptive Coherence framework for microbiome health). Written to wiki/changelog/fetch-2026-04-28.md.
+
+## [2026-04-29] FETCH daily scan → created wiki/changelog/fetch-2026-04-29.md
+Searched all 23 target journals via web search and targeted queries for gut microbiome papers published 2026-04-26–29, excluding papers already captured in the 2026-04-28 fetch. Indexing lag again prevented confirmation of papers from exactly Apr 29; fetch covers newly confirmed publications from Apr 14–27, 2026 not previously recorded. Found 5 papers across 4 journals: Nature Medicine ×1 (gut microbiome as fingerprint of antibiotic use history; 14,979-person Swedish cohort), Cell Reports Medicine ×1 (vitamin D multi-omics in IBD; immune tolerance restoration via IgA/IgG shift), Gut Microbes ×2 (Fusobacterium nucleatum oral-gut metabolite aggravates myocardial ischemia-reperfusion injury; gut-derived E. coli extracellular vesicles worsen cardiac I/R injury), Communications Biology ×1 (Christensenella intestinihominis probiotic ameliorates colitis via ecology restoration). Written to wiki/changelog/fetch-2026-04-29.md.
