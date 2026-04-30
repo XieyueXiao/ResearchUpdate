@@ -2,7 +2,7 @@
 title: "Operations Log"
 type: log
 created: 2026-04-15
-updated: 2026-04-29
+updated: 2026-04-30
 ---
 
 ## [2026-04-15] FETCH catch-up Jan–Apr 2026 (Part 1)
@@ -28,3 +28,6 @@ Searched all 23 target journals via web search and targeted queries for gut micr
 
 ## [2026-04-29] FETCH daily scan → created wiki/changelog/fetch-2026-04-29.md
 Searched all 23 target journals via web search and targeted queries for gut microbiome papers published 2026-04-26–29, excluding papers already captured in the 2026-04-28 fetch. Indexing lag again prevented confirmation of papers from exactly Apr 29; fetch covers newly confirmed publications from Apr 14–27, 2026 not previously recorded. Found 5 papers across 4 journals: Nature Medicine ×1 (gut microbiome as fingerprint of antibiotic use history; 14,979-person Swedish cohort), Cell Reports Medicine ×1 (vitamin D multi-omics in IBD; immune tolerance restoration via IgA/IgG shift), Gut Microbes ×2 (Fusobacterium nucleatum oral-gut metabolite aggravates myocardial ischemia-reperfusion injury; gut-derived E. coli extracellular vesicles worsen cardiac I/R injury), Communications Biology ×1 (Christensenella intestinihominis probiotic ameliorates colitis via ecology restoration). Written to wiki/changelog/fetch-2026-04-29.md.
+
+## [2026-04-30] FETCH daily scan → created wiki/changelog/fetch-2026-04-30.md
+Searched all 23 target journals via web search and targeted queries for gut microbiome papers published 2026-04-28–30, excluding papers already captured in the 2026-04-28 and 2026-04-29 fetches. Indexing lag continues; fetch also confirmed papers from Jan–Apr 2026 not previously indexed. Found 5 papers across 4 journals: Nature Reviews Gastroenterology & Hepatology ×1 (microbial enzymes regulate host metabolic health; enzyme-level mechanisms and therapeutic targets), PNAS ×1 (Clostridium butyricum–mediated acidification controls E. coli growth across human microbiomes; interspecies interaction reshapes community ecology), Genome Biology ×1 (Han Chinese vs. non-Chinese gut microbiome comparison; geography as primary driver; 689 Collinsella population-specific clusters), Gut Microbes ×2 (circadian synchronization between diet and microbiota; ICI efficacy in colorectal cancer via microbiota modulation). Written to wiki/changelog/fetch-2026-04-30.md.
