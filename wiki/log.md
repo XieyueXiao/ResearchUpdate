@@ -2,7 +2,7 @@
 title: "Operations Log"
 type: log
 created: 2026-04-15
-updated: 2026-04-30
+updated: 2026-05-01
 ---
 
 ## [2026-04-15] FETCH catch-up Jan–Apr 2026 (Part 1)
@@ -31,3 +31,6 @@ Searched all 23 target journals via web search and targeted queries for gut micr
 
 ## [2026-04-30] FETCH daily scan → created wiki/changelog/fetch-2026-04-30.md
 Searched all 23 target journals via web search and targeted queries for gut microbiome papers published 2026-04-28–30, excluding papers already captured in the 2026-04-28 and 2026-04-29 fetches. Indexing lag continues; fetch also confirmed papers from Jan–Apr 2026 not previously indexed. Found 5 papers across 4 journals: Nature Reviews Gastroenterology & Hepatology ×1 (microbial enzymes regulate host metabolic health; enzyme-level mechanisms and therapeutic targets), PNAS ×1 (Clostridium butyricum–mediated acidification controls E. coli growth across human microbiomes; interspecies interaction reshapes community ecology), Genome Biology ×1 (Han Chinese vs. non-Chinese gut microbiome comparison; geography as primary driver; 689 Collinsella population-specific clusters), Gut Microbes ×2 (circadian synchronization between diet and microbiota; ICI efficacy in colorectal cancer via microbiota modulation). Written to wiki/changelog/fetch-2026-04-30.md.
+
+## [2026-05-01] FETCH daily scan → created wiki/changelog/fetch-2026-05-01.md
+Searched all 23 target journals via web search and targeted queries for gut microbiome papers published 2026-04-28–05-01, excluding papers already captured in the 2026-04-28, 2026-04-29, and 2026-04-30 fetches. Indexing lag continues; confirmed papers span publication dates April 10–27, 2026. Found 5 papers across 3 target journals plus 1 bonus paper from Communications Medicine (Nature family): Nature Communications ×1 (microbiota-derived metabolites modulate cancer immunotherapy; mechanistic review of SCFA, bile acid, indole, and polyamine immunomodulatory circuits), mSystems ×1 (lifestyle factors beyond antibiotics shape gut resistome; urbanisation gradient and one-health AMR surveillance), Gut Microbes ×3 (EB1010 Christensenellaceae-derived peptide with anti-inflammatory/barrier-protective activity in UC; sex-modulated long-term effects of C-section vs. vaginal delivery on microbiota-gut barrier and colitis susceptibility; purposeful gut bacteria translocation in health — conceptual review), Communications Medicine ×1 bonus (prophage in colorectal cancer-associated Bacteroides fragilis; phage integration disrupts virulence loci, ~2× enrichment in CRC patients). Written to wiki/changelog/fetch-2026-05-01.md.
