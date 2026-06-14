@@ -148,3 +148,6 @@ Searched all 23 target journals via web search and targeted queries for gut micr
 
 ## [2026-06-13] FETCH daily scan → created wiki/changelog/fetch-2026-06-13.md
 Searched all 23 target journals via web search and targeted queries for gut microbiome papers published 2026-06-12–06-13, excluding papers already captured in all prior fetches (2026-04-28 through 2026-06-12). Papers from June 12–13 not yet indexed; persistent daily indexing lag continues. 0 confirmed new papers. Deferred Microbiome (Springer) article (Fang Ming Xiang/Xiao Tian Tang/ZhiJian Zhang, ~June 9) title/abstract still not indexed; carried over again to next fetch. Written to wiki/changelog/fetch-2026-06-13.md.
+
+## [2026-06-14] FETCH daily scan → created wiki/changelog/fetch-2026-06-14.md
+Searched all 23 target journals via web search and targeted queries for gut microbiome papers published 2026-06-13–06-14, excluding papers already captured in all prior fetches (2026-04-28 through 2026-06-13). Papers from June 13–14 not yet indexed; persistent daily indexing lag continues. 0 confirmed new papers. Deferred Microbiome (Springer) article (Fang Ming Xiang/Xiao Tian Tang/ZhiJian Zhang, ~June 9–12) title/abstract still not indexed; carried over to next fetch. Written to wiki/changelog/fetch-2026-06-14.md.
