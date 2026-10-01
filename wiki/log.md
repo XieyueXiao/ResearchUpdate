@@ -439,3 +439,6 @@ Searched target journals via 2 web search queries and 1 direct fetch attempt for
 
 ## [2026-09-30] FETCH daily scan → created wiki/changelog/fetch-2026-09-30.md
 Searched target journals via 3 web search queries for gut microbiome papers since the 2026-09-29 fetch. Direct journal-site access remains unavailable; findings rely on WebSearch snippets. No new, in-window, in-scope paper with a resolvable DOI confirmed. Out-of-window items (Nature Communications 2026-09-08/10; Cell Host & Microbe 2026-09-09 issue) excluded. Earlier unresolved leads carried forward unchanged (see fetch-2026-09-30.md).
+
+## [2026-10-01] FETCH daily scan → created wiki/changelog/fetch-2026-10-01.md
+Searched target journals via 2 web search queries for gut microbiome papers since the 2026-09-30 fetch. Direct journal-site access remains unavailable; findings rely on WebSearch snippets. No new, in-window, in-scope paper with a resolvable DOI confirmed. One new unresolved lead: Hensen et al., "Personalized whole-body modeling links gut microbiota to metabolic perturbations in Alzheimer's disease" (Gut Microbes, ~2026-09-28), no DOI resolved. Earlier unresolved leads carried forward unchanged.
