@@ -445,3 +445,6 @@ Searched target journals via 2 web search queries for gut microbiome papers sinc
 
 ## [2026-10-02] FETCH daily scan → created wiki/changelog/fetch-2026-10-02.md
 Searched target journals via 2 web search queries for gut microbiome papers since the 2026-10-01 fetch. Direct journal-site access remains unavailable; findings rely on WebSearch snippets. No new, in-window, in-scope paper with a resolvable DOI confirmed. Nature Communications single-cell transcriptomics lead (s41467-026-75546-z) carried forward with date unconfirmed. Earlier unresolved leads carried forward unchanged.
+
+## [2026-10-03] FETCH daily scan → created wiki/changelog/fetch-2026-10-03.md
+Searched target journals via 2 web search queries for gut microbiome papers since the 2026-10-02 fetch. Direct journal-site access remains unavailable; findings rely on WebSearch snippets. No new, in-window, in-scope paper with a resolvable DOI confirmed. Earlier unresolved leads carried forward unchanged.
