@@ -460,3 +460,6 @@ Searched target journals via 2 web search queries for gut microbiome papers sinc
 
 ## [2026-10-07] FETCH daily scan → created wiki/changelog/fetch-2026-10-07.md
 Searched target journals via 2 web search queries for gut microbiome papers since the 2026-10-06 fetch. Direct journal-site access remains unavailable; findings rely on WebSearch snippets. No in-window paper with a resolvable DOI confirmed. Earlier unresolved leads carried forward unchanged.
+
+## [2026-10-08] FETCH daily scan → created wiki/changelog/fetch-2026-10-08.md
+Searched target journals via 2 web search queries for gut microbiome papers since the 2026-10-07 fetch. Direct journal-site access remains unavailable; findings rely on WebSearch snippets. No in-window paper with a resolvable DOI confirmed. Earlier unresolved leads carried forward unchanged.
