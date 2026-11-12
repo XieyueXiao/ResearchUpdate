@@ -565,3 +565,6 @@ Searched target journals via 2 web search queries for gut microbiome papers sinc
 
 ## [2026-11-11] FETCH daily scan → created wiki/changelog/fetch-2026-11-11.md
 Searched target journals via 2 web search queries for gut microbiome papers since the 2026-11-10 fetch. Direct journal-site/PubMed access remains unavailable (proxy 403); findings rely on WebSearch snippets. No in-window paper confirmed.
+
+## [2026-11-12] FETCH daily scan → created wiki/changelog/fetch-2026-11-12.md
+Searched target journals via 2 web search queries for gut microbiome papers since the 2026-11-11 fetch. PubMed E-utilities cannot be reached (host is not in the network allowlist); findings rely on WebSearch snippets. No in-window paper confirmed.
