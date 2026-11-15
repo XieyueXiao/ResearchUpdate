@@ -574,3 +574,6 @@ Searched target journals via 2 web search queries for gut microbiome papers sinc
 
 ## [2026-11-14] FETCH daily scan → created wiki/changelog/fetch-2026-11-14.md
 Searched target journals via 3 web search queries for gut microbiome papers since the 2026-11-13 fetch. Recorded 1 paper (Nature Medicine, GVHD prophylaxis regimens and gut microbiome in a randomized phase 3 trial; dated 2026-11-12, caught up because the previous fetch missed it). Direct journal-site/PubMed access remains unavailable; findings rely on WebSearch snippets.
+
+## [2026-11-15] FETCH daily scan → created wiki/changelog/fetch-2026-11-15.md
+Searched target journals via 5 web search queries for gut microbiome papers since the 2026-11-14 fetch. No in-window paper confirmed. Off-list items noted: a coffee–gut physiology study in Gut Microbiology (not a target journal) and a DI-GM–IBD UK Biobank study whose journal could not be identified. Direct journal-site/PubMed access remains unavailable; findings rely on WebSearch snippets.
