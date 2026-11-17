@@ -580,3 +580,6 @@ Searched target journals via 5 web search queries for gut microbiome papers sinc
 
 ## [2026-11-16] FETCH daily scan → created wiki/changelog/fetch-2026-11-16.md
 Searched target journals via 6 web search queries for gut microbiome papers since the 2026-11-15 fetch. No in-window paper confirmed. Off-list items noted: a Science Advances N-MNA gut-repair study and a European Journal of Nutrition IBS fibre-blend RCT. A catch-up suggestion was added for a Cell paper (about 2026-11-02) on convergent genomic evolution of gut bacteria with industrialization. PubMed and ScienceDaily remain unreachable, so findings rely on WebSearch snippets.
+
+## [2026-11-17] FETCH daily scan → created wiki/changelog/fetch-2026-11-17.md
+Searched target journals via 4 web search queries for gut microbiome papers since the 2026-11-16 fetch. No in-window paper confirmed. All target-journal items that surfaced (Nature PheWAS, Nature Medicine Japanese cohort, Cell industrialization study, Nature Communications infant enzyme) date from early November and are already in earlier fetches. News-Medical, PubMed and ScienceDaily remain unreachable, so findings rely on WebSearch snippets.
