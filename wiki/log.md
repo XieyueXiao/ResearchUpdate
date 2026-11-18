@@ -583,3 +583,6 @@ Searched target journals via 6 web search queries for gut microbiome papers sinc
 
 ## [2026-11-17] FETCH daily scan → created wiki/changelog/fetch-2026-11-17.md
 Searched target journals via 4 web search queries for gut microbiome papers since the 2026-11-16 fetch. No in-window paper confirmed. All target-journal items that surfaced (Nature PheWAS, Nature Medicine Japanese cohort, Cell industrialization study, Nature Communications infant enzyme) date from early November and are already in earlier fetches. News-Medical, PubMed and ScienceDaily remain unreachable, so findings rely on WebSearch snippets.
+
+## [2026-11-18] FETCH daily scan → created wiki/changelog/fetch-2026-11-18.md
+Searched target journals via 6 web search queries for gut microbiome papers since the 2026-11-17 fetch. No in-window target-journal paper confirmed. Off-list items noted: a Cell Metabolism study on microbial BSH-mediated bile acid deconjugation in centenarians (2026-11-16; suggested for ingest), a dog gut microbiome industrialization study attributed to mSystems (only the preprint was verified), and a resurfaced Gut paper on Roseburia and muscle strength (March 2026). phys.org, News-Medical, PubMed and ScienceDaily remain unreachable, so findings rely on WebSearch snippets.
