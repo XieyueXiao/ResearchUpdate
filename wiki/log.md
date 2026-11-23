@@ -598,3 +598,12 @@ Searched target journals via 11 web search queries for gut microbiome papers sin
 
 ## [2026-11-22] FETCH daily scan → created wiki/changelog/fetch-2026-11-22.md
 Searched target journals via 10 web search queries for gut microbiome papers since the 2026-11-21 fetch. Recorded 1 paper: a CHILD-cohort Nature Communications study (DOI 10.1038/s41467-026-77355-w; online date about 2026-11-20/21, unconfirmed) linking cesarean-associated infant gut microbial scores and elevated faecal tryptophan metabolites at age 1 to asthma at age 5, with the metabolites mediating part of the association. Off-list item noted: a Scientific Reports study of *Blautia* enrichment and elevated serum butyrate in IgA nephropathy (2026-11-20). nature.com, bioengineer.org and microbiomedigest.com remain unreachable, so findings rely on WebSearch snippets.
+
+## [2026-11-23] FETCH daily scan → created wiki/changelog/fetch-2026-11-23.md
+Searched target journals via 12 web search queries for gut microbiome papers since the 2026-11-22 fetch. No new target-journal papers were found in the past 24 hours ("No new papers today"). Off-window and off-list items noted for catch-up:
+- a Frontiers in Nutrition paediatric functional dyspepsia multi-omics study (2026-11-23)
+- Princeton fibre-deprivation/mucus-foraging and "Prif" plant-protein studies (journal attribution conflicts between Cell/PNAS and Nature Metabolism)
+- an oral–gut adenoma–carcinoma profiling study (about 2026-11-17)
+- the SER-155 phase 1 live biotherapeutic results in allo-HSCT recipients (press 2026-11-04 to 2026-11-09)
+
+microbiomedigest.com is outside the allowed network domains, so findings rely on WebSearch snippets.
