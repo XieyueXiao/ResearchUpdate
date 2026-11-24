@@ -607,3 +607,12 @@ Searched target journals via 12 web search queries for gut microbiome papers sin
 - the SER-155 phase 1 live biotherapeutic results in allo-HSCT recipients (press 2026-11-04 to 2026-11-09)
 
 microbiomedigest.com is outside the allowed network domains, so findings rely on WebSearch snippets.
+
+## [2026-11-24] FETCH daily scan → created wiki/changelog/fetch-2026-11-24.md
+Searched target journals via 11 web search queries for gut microbiome papers since the 2026-11-23 fetch. No new target-journal papers were found in the past 24 hours ("No new papers today"). Off-window and off-list items noted for catch-up:
+- the Rutgers *Science Advances* N-methylnicotinamide (microbe-derived NAD⁺ precursor) gut stem-cell renewal study (paper 2026-11-06, press through 2026-11-23)
+- a *Translational Psychiatry* fragile X AM6545 study with gut microbiota shifts (about 2026-11-19)
+- a *Communications Medicine* Slfn4 colitis/CAC study (2026-11-17)
+- a *Cancer Causes & Control* study of persistent pks⁺ *E. coli* in CRC (2026-11-11)
+
+Recycled Tartu medication coverage traced to Aasmets et al., *mSystems* 2025. Findings rely on WebSearch snippets.
