@@ -616,3 +616,9 @@ Searched target journals via 11 web search queries for gut microbiome papers sin
 - a *Cancer Causes & Control* study of persistent pks⁺ *E. coli* in CRC (2026-11-11)
 
 Recycled Tartu medication coverage traced to Aasmets et al., *mSystems* 2025. Findings rely on WebSearch snippets.
+
+## [2026-11-25] FETCH daily scan → created wiki/changelog/fetch-2026-11-25.md
+Searched target journals via 10 web search queries for gut microbiome papers since the 2026-11-24 fetch. Found 1 in-window target-journal paper:
+- *Gut* — a pooled study of three Scandinavian birth cohorts (n = 111,999) on childhood and adolescent food-group intake and IBD risk (DOI 10.1136/gutjnl-2026-339600, press 2026-11-24). It is diet epidemiology with no microbiome measurements, so it is borderline for scope.
+
+I also noted an unconfirmed Nature-family small-intestine microbiome review (about 2026-11-23) to check next time. Other resurfaced items were already recorded. EurekAlert is outside the allowed network domains, so findings rely on WebSearch snippets.
