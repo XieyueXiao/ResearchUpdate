@@ -622,3 +622,11 @@ Searched target journals via 10 web search queries for gut microbiome papers sin
 - *Gut* — a pooled study of three Scandinavian birth cohorts (n = 111,999) on childhood and adolescent food-group intake and IBD risk (DOI 10.1136/gutjnl-2026-339600, press 2026-11-24). It is diet epidemiology with no microbiome measurements, so it is borderline for scope.
 
 I also noted an unconfirmed Nature-family small-intestine microbiome review (about 2026-11-23) to check next time. Other resurfaced items were already recorded. EurekAlert is outside the allowed network domains, so findings rely on WebSearch snippets.
+
+## [2026-11-26] FETCH daily scan → created wiki/changelog/fetch-2026-11-26.md
+Searched target journals via 11 web search queries for gut microbiome papers since the 2026-11-25 fetch. No new target-journal papers were found in the past 24 hours ("No new papers today"). Notes:
+- a Nature news item, "Gut microbes can adapt to our ageing bodies" (about 2026-11-25), covers the already-recorded Nature microbial SNV PheWAS
+- an unsourced News-Medical zinc-deficiency microbiome item (about 2026-11-24) needs its journal and DOI
+- the small-intestine microbiome review is still unconfirmed
+
+nature.com is outside the allowed network domains, so findings rely on WebSearch snippets.
