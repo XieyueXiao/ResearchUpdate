@@ -630,3 +630,11 @@ Searched target journals via 11 web search queries for gut microbiome papers sin
 - the small-intestine microbiome review is still unconfirmed
 
 nature.com is outside the allowed network domains, so findings rely on WebSearch snippets.
+
+## [2026-11-27] FETCH daily scan → created wiki/changelog/fetch-2026-11-27.md
+Searched target journals via 11 web search queries for gut microbiome papers since the 2026-11-26 fetch. No new target-journal papers were found in the past 24 hours ("No new papers today"); a US Thanksgiving lull is likely. Notes:
+- the small-intestine review is still unconfirmed, with a suggestion to drop it
+- the zinc-deficiency item still has no journal or DOI
+- a UK MHRA call for microbiome-analysis standards is a news item, not a paper
+
+Other resurfaced items were already recorded. microbiomedigest.com is outside the allowed network domains, so findings rely on WebSearch snippets.
