@@ -638,3 +638,11 @@ Searched target journals via 11 web search queries for gut microbiome papers sin
 - a UK MHRA call for microbiome-analysis standards is a news item, not a paper
 
 Other resurfaced items were already recorded. microbiomedigest.com is outside the allowed network domains, so findings rely on WebSearch snippets.
+
+## [2026-11-28] FETCH daily scan → created wiki/changelog/fetch-2026-11-28.md
+Searched target journals via 10 web search queries for gut microbiome papers since the 2026-11-27 fetch. No new target-journal papers were confirmed in the past 24 hours ("No new papers today"). Leads:
+- the small-intestine review now likely resolves to a *Nature Reviews Microbiology* article (DOI 10.1038/s41579-026-01389-6), date unconfirmed
+- a *Nature Microbiology* November-issue study on *F. nucleatum* 2-hydroxybutyrate driving ETBF toxin expression, DOI not retrieved
+- a rectal-cancer radiotherapy diversity item with no journal identified
+
+nature.com is outside the allowed network domains, so findings rely on WebSearch snippets.
